@@ -4,9 +4,13 @@ body{
 }
 
 table{
-
-	  border:  solid ;
-      padding: 30px;
-
       margin-left: 400px;
+}
+
+th, td {
+text-align: center;
+	border: 1px solid black;
+	border-collapse: collapse;
+
+	
 }
