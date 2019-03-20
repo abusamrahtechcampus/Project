@@ -1,6 +1,6 @@
 body{
 
-	background-color: #d4d3d3;
+	background-color: lightblue;
 }
 
 table{
@@ -11,6 +11,16 @@ th, td {
 text-align: center;
 	border: 1px solid black;
 	border-collapse: collapse;
+}
 
-	
+img{
+
+    margin-left: 300px;
+	width: 400px;
+	height: 300px;
+}
+
+.dd{
+	width: 600px
+	height:200px;
 }
